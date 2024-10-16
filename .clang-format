@@ -1,0 +1,11 @@
+---
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: Align
+IndentWidth: '4'
+Language: Cpp
+TabWidth: '4'
+UseTab: Never
+AccessModifierOffset: -4
+IndentAccessModifiers: false
+
+...
